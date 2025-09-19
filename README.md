@@ -1,8 +1,9 @@
 # GCP Managed Workload Identity Demo Setup
 
 This document provides an overview of Google Cloud's Managed Workload Identity and explains how to use the provided shell script to set up a demonstration environment.
+**DISCLAIMER 1:** This service is currently in Preview and requires project allow listing before testing. Apply Here: https://forms.gle/KC1Lq77gMn3kTtWDA 
 
-**DISCLAIMER:** This script is intended for demonstration and educational purposes only. It is **NOT** recommended for production use.
+**DISCLAIMER 2:** This script is intended for demonstration and educational purposes only. It is **NOT** recommended for production use.
 
 ## What is GCP Managed Workload Identity?
 
