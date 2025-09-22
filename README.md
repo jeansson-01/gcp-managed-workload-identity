@@ -17,7 +17,9 @@ Managed workload identities for GKE is available in Preview. Managed workload id
 
 It is based on the [SPIFFE (Secure Production Identity Framework for Everyone)](https://spiffe.io/) standard, providing a consistent and secure way to establish trust between your workloads and Google Cloud.
 
-For more detailed information, please refer to the official Google Cloud documentation: [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation).
+For more detailed information, please refer to the official Google Cloud documentation for Managed Workload Identity Federation:
+https://cloud.google.com/iam/docs/managed-workload-identity
+https://cloud.google.com/iam/docs/create-managed-workload-identities 
 
 
 ## About This Demo Script (`gcloud_managed_id_demo_setup-v2.sh`)
